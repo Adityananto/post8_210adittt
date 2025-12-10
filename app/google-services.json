@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "100754075514",
+    "firebase_url": "https://post8210-79901-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "post8210-79901",
+    "storage_bucket": "post8210-79901.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100754075514:android:1b1c92d393680e438bf0c3",
+        "android_client_info": {
+          "package_name": "com.adit.post8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAje9FWmMY_6-09OBJw-baTP9pApjZQbuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100754075514:android:a066e9a1629357cd8bf0c3",
+        "android_client_info": {
+          "package_name": "com.nanta.post8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAje9FWmMY_6-09OBJw-baTP9pApjZQbuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
